@@ -1,15 +1,16 @@
 # baseproject
 
-A new Flutter project.
+A new Flutter project in this project we set project structure based on standards.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Important things to Remember Before work on any Project.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- File name Should be like this file_name.dart
+- create seprate folder for images and fonts in root directory named assets
+- create a widget folder in lib add reusable widgets in it.
+- create a constant folder in lib to maintain all constant values of your app e.g App images App Colors App App Strings
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
